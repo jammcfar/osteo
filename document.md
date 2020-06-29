@@ -1,0 +1,91 @@
+# Osteoporosis medication suggestions
+
+This is a quick ranking of some promising options in MIMs. I started with the 2014 edition, but moved to the website which is more up to date. There are other alternatives than what I have listed here, but so far, two stand out. These are engaged in a bit of a contest for both anti-osteoporosis and anti-cancer superiority; the more established Aclasta, versus the newer Prolia.
+
+Ultimately, these two drugs are quite similar in many ways and it is difficult to choose one over the other. Strategies of using one, followed by the other are being trialed as we speak. I think I would mention this to the doctor, but probably defer to their preference.
+
+## 1) Aclasta
+
+> Bisphosphonate: *Zoledronic acid*
+
+<img src="https://img.dailymail.co.uk/i/pix/2007/10_02/BONEPILLS_468x449.jpg"
+    alt="Aclasta"
+    title="Aclasta"
+    width = "400"
+    height = "400"
+/>
+
+
+
+This is an annual 15 minute infusion. Like other bisphosphonates, this reduces osteoclast activity and in-turn slows bone reabsorption. There are several other options when choosing a bisphosphonate, but this one seems to be the most interesting as it seems to have other anti-cancer effects.
+
+Here is a rheumatologist talking about it in very general way (it sounds a bit like he is reading the packet insert):
+
+<iframe width="560"
+height="315"
+src="https://www.youtube.com/embed/YmmKt4niyYY" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+As aforementioned, it may have the **positive side effect** of having anti-fibrosarcoma actions and reduce the risk of cancer reoccurrence. Three studies have been noted to suggest this, but in these cases it was provided in conjunction with hormone therapy from the start. Here is a oncologist discussing a study comparing the efficacy of Zoledronic acid to Prolia (only for the first 2:30 minutes of the video):
+
+<iframe width="560"
+height="315"
+src="https://www.youtube.com/embed/cetRK3245b8"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+**Negative side effects** can include in initial set of flu-like symptoms, joint pain, renal dysfunction (sometimes) and cardiac arrhythmia (rare). Osteo-necrosis of the jaw is a rare possible side-effect of bisphosphonates which has been noted to occur following invasive dental procedures. Here is a oncologist who was running clinical trials for breast cancer using zoledronic acid, discussing some side-effects and how well it is tolerated: 
+
+<iframe width="560"
+height="315"
+src="https://www.youtube.com/embed/YxVzPY0wsts"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+Finally, here is what looks like an American promo video showing an infusion procedure with some of the standard general blurb. Not very exciting, but its nice to see it partially in action. It also repeats some side-effects.
+
+<iframe width="560"
+height="315"
+src="https://www.youtube.com/embed/Usl6FkX8Fl8"
+frameborder="0"
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+allowfullscreen></iframe>
+
+## 2) Prolia
+
+> **Monoclonal antibody**: Denosumab
+
+<img src="https://nsistemcell.com/wp-content/uploads/2018/01/prolia-1024x630.jpg"
+    alt="Aclasta"
+    title="Aclasta"
+    width = "600"
+    height = "350"
+/>
+
+Prolia is a bi-annual sub-cutaneous injection. The method of action is different to bisphospohates, but they also ultimately work by reducing osteoclast activity.
+
+Here is that guy again talking generally about Prolia:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LamAanr0Mt8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The **positive side effects** of Prolia are quite similar to Aclasta and there is a bit of a fight going on here about which is best for in terms of anti-cancer properties. Prolia also has its own cheerleaders within the scientific community. Here is a greek MD who suggests it is superior for cancer related endpoints:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EtxM4gg8CXQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+However, here is another MD who had less success in clinical trials and ends up reluctantly recommending Zoledronic acid.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1FnPuRTofE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Here is presentation by another MD and an oncology conference, comparing Aclasta and Prolia. This is a longer one video (17 minutes) so you may wish to skip it. It has some of heavier discussion about the pharmacology and makes more use of statistics to discuss points. The main takeaways are that while the two are quite similar in many ways, Prolia tends to be slightly more efficacious in a variety of cancer and osteoporosis endpoints. It also had a lower instance of pain as a side-effect. It is only a discussion of one phase 3 study though.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1jBB-8SamU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In terms of **negative side effects**, again it is a similar story to Aclasta. If you watched the videos above, you might have noted this already.
+
+There is an also the possibility of a rebound effect with Prolia, where the bones become weaker immediately after cessation and increase the risk of fracture. A ongoing study is looking and trying to prevent this by starting with bisphosphonates and then following this with denosumab:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CKBRuifhlRk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
